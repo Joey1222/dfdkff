@@ -1,0 +1,18 @@
+settings:
+  http-port: 20123
+  html-theme: default
+
+whitelist: [
+    j0ey_0nNES2012
+    emmet2003
+    Nad1aStarh0lder
+]
+
+consoleView: []
+
+consoleOp: []
+
+allowed-login-players:
+  j0ey_0nNES2012: iloveyou2012
+  emmet2003: emmet2003
+  Nad1aStarh0lder: Nad1aStarh0lder

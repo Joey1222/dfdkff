@@ -1,0 +1,19 @@
+discord:
+    command: /discord
+    type: TEXT
+    text:
+        - '&a&lDiscord is $player:&r https://discord.gg/invite-code'
+    permission-required: false
+youtube:
+    command: /youtube
+    type: TEXT
+    text:
+        - '&a&lYoutube is $player:&r https://www.youtube.com/@youtube_username'
+    permission-required: false
+yt:
+    command: /yt
+    type: TEXT
+    text:
+        - '&a&lYoutube is $player:&r https://www.youtube.com/@youtube_username'
+    permission-required: false
+    register: true

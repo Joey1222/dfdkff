@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.224.245.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1683673464359
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1683673467599
+  login: 1683668081485
+money: '0'
+last-account-name: j0ey_0nNES2012
+logoutlocation:
+  world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+  world-name: lobby
+  x: -7.5
+  y: 65.0
+  z: -4.5
+  yaw: -89.10009765625
+  pitch: -5.850000858306885
+lastlocation:
+  world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+  world-name: lobby
+  x: -7.607983026427701
+  y: 65.0
+  z: -4.463999138097409
+  yaw: -88.2000732421875
+  pitch: 7.799996852874756

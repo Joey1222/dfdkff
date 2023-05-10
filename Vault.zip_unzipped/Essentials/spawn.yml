@@ -1,0 +1,33 @@
+spawns:
+  default:
+    world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+    world-name: lobby
+    x: -8.0
+    y: 65.0
+    z: -5.0
+    yaw: -89.10009765625
+    pitch: -5.700000762939453
+  owner:
+    world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+    world-name: lobby
+    x: -8.0
+    y: 65.0
+    z: -5.0
+    yaw: -89.10009765625
+    pitch: -5.700000762939453
+  admin:
+    world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+    world-name: lobby
+    x: -8.0
+    y: 65.0
+    z: -5.0
+    yaw: -89.10009765625
+    pitch: -5.700000762939453
+  vip:
+    world: 3ddc0406-ec54-4135-ab56-0ea9750c6d56
+    world-name: lobby
+    x: -8.0
+    y: 65.0
+    z: -5.0
+    yaw: -89.10009765625
+    pitch: -5.700000762939453
